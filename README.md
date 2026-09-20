@@ -23,9 +23,9 @@
 │                                                              │
 │   THOMAS TUTTLE                                              │
 │                                                              │
-│   SOFTWARE ENGINEER                                         │
+│   SOFTWARE ENGINEER                                          │
 │                                                              │
-│   BUILDING SYSTEMS • SOLVING PROBLEMS • KEEPING IT SIMPLE   │
+│   BUILDING SYSTEMS • SOLVING PROBLEMS • KEEPING IT SIMPLE    │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
