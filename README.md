@@ -1,138 +1,150 @@
  <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Marc%20Ceruti&fontSize=52&fontColor=ffffff&animation=fadeIn" width="100%" alt="Marc Ceruti">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=210&section=header&text=THOMAS%20TUTTLE&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=FULL-STACK%20%2F%2F%20AI%20ENGINEER&descAlignY=62&descSize=18&color=0:020617,50:111827,100:312E81" width="100%" alt="Thomas Tuttle" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=8B5CF6&center=true&vCenter=true&width=760&lines=AI+ENGINEER;Building+Intelligent+Systems;Machine+Learning+%7C+LLMs+%7C+Deep+Learning;Turning+Data+Into+Intelligence" alt="Typing introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=A5B4FC&center=true&vCenter=true&width=760&lines=DESIGN+%2F%2F+BUILD+%2F%2F+SHIP;FULL-STACK+%26+AI+ENGINEERING;INTELLIGENT+SYSTEMS+%7C+MODERN+APPLICATIONS;FROM+IDEAS+TO+PRODUCTION" alt="Thomas Tuttle introduction" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ARTIFICIAL-INTELLIGENCE-7C3AED?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/MACHINE-LEARNING-2563EB?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/DEEP-LEARNING-0891B2?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/LLM-SYSTEMS-DB2777?style=for-the-badge&logo=huggingface&logoColor=white">
+<img src="https://img.shields.io/badge/FULL--STACK-ENGINEERING-1E293B?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=334155" />
+<img src="https://img.shields.io/badge/AI-ENGINEERING-4338CA?style=for-the-badge&logo=openai&logoColor=white&labelColor=312E81" />
+<img src="https://img.shields.io/badge/SYSTEM-DESIGN-334155?style=for-the-badge&logo=databricks&logoColor=white&labelColor=475569" />
+<img src="https://img.shields.io/badge/PRODUCT-BUILDING-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=4C1D95" />
 
 </div>
 
 <br/>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider">
-</p>
+<div align="center">
 
-## 👨‍💻 About Me
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Marc Ceruti"
-        self.role = "AI Engineer"
-        self.focus = [
-            "Artificial Intelligence",
-            "Machine Learning & Deep Learning",
-            "Large Language Models",
-            "Intelligent Automation",
-            "AI-powered Applications"
-        ]
-
-    def philosophy(self):
-        return (
-            "Build intelligent systems that solve "
-            "real problems and create meaningful impact."
-        )
-
-
-marc = AIEngineer()
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   THOMAS TUTTLE                                              │
+│                                                              │
+│   FULL-STACK & AI ENGINEER                                   │
+│                                                              │
+│   SOFTWARE • INTELLIGENCE • ARCHITECTURE • INNOVATION        │
+│                                                              │
+│   BUILDING SYSTEMS THAT THINK, SCALE, AND SOLVE              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+</div>
+
+---
+
+## `01 / ABOUT`
 
 <table>
 <tr>
-<td width="55%" valign="top">
 
-### 🧠 Engineering Mindset
+<td width="60%" valign="top">
 
-I'm passionate about exploring how artificial intelligence can transform complex problems into practical, intelligent solutions.
+I'm **Thomas Tuttle**, a Full-Stack & AI Engineer passionate about building modern software and intelligent applications.
 
-I enjoy working with machine learning models, developing AI-powered systems, and exploring new ways to make technology smarter and more capable.
+I enjoy working across the entire engineering process — from designing intuitive interfaces and scalable backend services to integrating AI capabilities into real-world products.
 
-> Think intelligently.  
-> Build purposefully.  
-> Innovate continuously.
+My focus is on creating software that combines **strong engineering foundations, intelligent functionality, and practical user experiences**.
+
+<br/>
+
+> **Understand the problem. Engineer the solution. Build something meaningful.**
 
 </td>
-<td width="45%" valign="top">
+
+<td width="40%" valign="top">
 
 ```yaml
-engineering:
+engineer:
+  name: Thomas Tuttle
+  role: Full-Stack & AI Engineer
+
+interests:
+  full_stack:
+    - Frontend Engineering
+    - Backend Systems
+    - API Architecture
+
   artificial_intelligence:
-    - LLM applications
-    - AI agents
-    - Intelligent systems
+    - LLM Applications
+    - AI Agents
+    - Intelligent Automation
 
-  machine_learning:
-    - Model development
-    - Neural networks
-    - Predictive modeling
+  engineering:
+    - System Design
+    - Product Development
+    - Software Architecture
 
-  applied_ai:
-    - AI automation
-    - NLP
-    - Data-driven solutions
+approach:
+  plan → design → build → refine
 ```
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🚀 What I Build
+## `02 / WHAT I BUILD`
 
 <div align="center">
 
 <table>
 <tr>
-<td width="33%" align="center">
 
-### 🤖 AI Systems
+<td width="33%" align="center" valign="top">
 
-LLM applications
+### `01 / FULL-STACK`
 
-AI agents
+⚛️
 
-Intelligent automation
+**Modern Applications**
 
-AI integrations
-
-</td>
-<td width="33%" align="center">
-
-### 🧠 Machine Learning
-
-Predictive models
-
-Deep learning
-
-Neural networks
-
-Model optimization
+- React Applications
+- TypeScript Systems
+- Responsive Interfaces
+- API Integrations
+- End-to-End Products
 
 </td>
-<td width="33%" align="center">
 
-### 🔬 Applied AI
+<td width="33%" align="center" valign="top">
 
-Natural language processing
+### `02 / AI ENGINEERING`
 
-Data intelligence
+🤖
 
-Computer vision
+**Intelligent Systems**
 
-AI-powered solutions
+- LLM Applications
+- AI-powered Features
+- RAG Pipelines
+- AI Agents
+- Workflow Automation
 
 </td>
+
+<td width="33%" align="center" valign="top">
+
+### `03 / BACKEND`
+
+⚙️
+
+**Reliable Infrastructure**
+
+- REST APIs
+- Database Design
+- Backend Services
+- System Architecture
+- Scalable Applications
+
+</td>
+
 </tr>
 </table>
 
@@ -140,83 +152,97 @@ AI-powered solutions
 
 ---
 
-## 🛠️ Technology Stack
+## `03 / TECHNOLOGY STACK`
 
 <div align="center">
 
-### 🐍 Programming & Development
+### `FRONTEND`
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts&perline=5" alt="Programming technologies">
-
-<br/><br/>
-
-### 🧠 AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3" alt="AI and machine learning technologies">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,mui&perline=8" alt="Frontend technologies" />
 
 <br/><br/>
 
-### ⚙️ Backend & Infrastructure
+### `BACKEND`
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,linux,git,github&perline=6" alt="Backend and infrastructure technologies">
-
-<br/><br/>
-
-### 🗄️ Data & Storage
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&perline=4" alt="Database technologies">
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,go,express,fastapi&perline=6" alt="Backend technologies" />
 
 <br/><br/>
 
-### 🔧 Development Tools
+### `AI / MACHINE LEARNING`
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,bash&perline=4" alt="Development tools">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=3" alt="AI technologies" />
+
+<br/><br/>
+
+### `DATA & STORAGE`
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&perline=4" alt="Database technologies" />
+
+<br/><br/>
+
+### `TOOLS & INFRASTRUCTURE`
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&perline=6" alt="Development tools" />
 
 </div>
 
 ---
 
-## ⚡ Engineering Principles
+## `04 / HOW I ENGINEER`
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/01%20INTELLIGENCE-7C3AED?style=for-the-badge">
-<img src="https://img.shields.io/badge/02%20INNOVATION-2563EB?style=for-the-badge">
-<img src="https://img.shields.io/badge/03%20PRECISION-0891B2?style=for-the-badge">
-<img src="https://img.shields.io/badge/04%20IMPACT-DB2777?style=for-the-badge">
-
-<br/><br/>
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
-### 🧠 Intelligence
+### `01`
 
-Use data and algorithms to solve meaningful problems.
+🔎
+
+**UNDERSTAND**
+
+Identify the real problem and its constraints.
 
 </td>
+
 <td align="center" width="25%">
 
-### 💡 Innovation
+### `02`
 
-Explore new ideas and push technological boundaries.
+🧩
+
+**ARCHITECT**
+
+Design systems with the right foundations.
 
 </td>
+
 <td align="center" width="25%">
 
-### 🎯 Precision
+### `03`
 
-Build accurate, efficient, and reliable AI systems.
+⚡
+
+**ENGINEER**
+
+Build software and integrate intelligence.
 
 </td>
+
 <td align="center" width="25%">
 
-### 🚀 Impact
+### `04`
 
-Turn research and technology into real-world value.
+🚀
+
+**EVOLVE**
+
+Test, optimize, and continuously improve.
 
 </td>
+
 </tr>
 </table>
 
@@ -224,40 +250,104 @@ Turn research and technology into real-world value.
 
 ---
 
-## 🌌 Current Focus
+## `05 / CURRENT FOCUS`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LLM_APPLICATIONS-7C3AED?style=flat-square">
-<img src="https://img.shields.io/badge/AI_AGENTS-2563EB?style=flat-square">
-<img src="https://img.shields.io/badge/DEEP_LEARNING-0891B2?style=flat-square">
-<img src="https://img.shields.io/badge/GENERATIVE_AI-DB2777?style=flat-square">
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/FULL--STACK_APPLICATIONS-1E293B?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/LLM_APPLICATIONS-4338CA?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_AGENTS-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/BACKEND_ARCHITECTURE-334155?style=flat-square" />
+<img src="https://img.shields.io/badge/SYSTEM_DESIGN-475569?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_AUTOMATION-7C3AED?style=flat-square" />
 
-<br/><br/>
+</div>
 
-<sub>
+<br/>
 
-Exploring the intersection of **artificial intelligence, machine learning, and real-world engineering**.
+```text
+[■■■■■■■■■■■■■■■■■■■■]  FULL-STACK ENGINEERING
 
-</sub>
+[■■■■■■■■■■■■■■■■■■□□]  AI APPLICATION DEVELOPMENT
+
+[■■■■■■■■■■■■■■■■□□□□]  BACKEND & SYSTEM ARCHITECTURE
+
+[■■■■■■■■■■■■■■□□□□□□]  INTELLIGENT AUTOMATION
+```
+
+<div align="center">
+
+<sub>Exploring the intersection of software engineering and artificial intelligence.</sub>
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## `06 / ENGINEERING PRINCIPLES`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MarcCeruti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub statistics">
+<table>
+<tr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcCeruti&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages">
+<td align="center" width="25%">
+
+### `01`
+
+**CLARITY**
+
+Keep complexity understandable.
+
+</td>
+
+<td align="center" width="25%">
+
+### `02`
+
+**CRAFT**
+
+Build with intention and precision.
+
+</td>
+
+<td align="center" width="25%">
+
+### `03`
+
+**RELIABILITY**
+
+Create systems people can trust.
+
+</td>
+
+<td align="center" width="25%">
+
+### `04`
+
+**INNOVATION**
+
+Use technology to solve meaningful problems.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## `07 / GITHUB ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tomt1008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomt1008&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=MarcCeruti&theme=tokyonight&hide_border=true" width="65%" alt="GitHub contribution streak">
+<img src="https://streak-stats.demolab.com?user=tomt1008&theme=tokyonight&hide_border=true" width="65%" alt="GitHub contribution streak" />
 
 </div>
 
@@ -265,10 +355,10 @@ Exploring the intersection of **artificial intelligence, machine learning, and r
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Explore+the+unknown.;Build+intelligent+solutions.;Turn+ideas+into+innovation.;Shape+the+future+with+AI." alt="Closing message">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=818CF8&center=true&vCenter=true&width=720&lines=%3E+Think+beyond+the+ordinary.;%3E+Build+with+intelligence.;%3E+Engineer+with+purpose.;%3E+Keep+creating." alt="Closing message" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F172A,25:2563EB,50:7C3AED,75:DB2777,100:F97316" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&section=footer&color=0:020617,35:111827,70:312E81,100:4338CA" width="100%" alt="Footer" />
 
 </div>
